@@ -10,6 +10,7 @@ Simple Arduino project for SimHub to car clusters
 | ------------ | ----- | ----- | ----------- | ------ |
 | Citroen | C5 II | 2008 - 2017 | 9665557680 | [Here](src/clusters/citroen_c5_ii/README.md) |
 | Peugeot | 208 I | 2012 - 2019 | 9801906680 | [Here](src/clusters/peugeot_208_i/README.md) |
+| Peugeot | N/A | 2008 - 2018 | 9666247580 | [Here](src/clusters/peugeot_multifunction_display/README.md) |
 
 ## BOM
 
