@@ -8,6 +8,7 @@ Simple Arduino project for SimHub to car clusters
 
 | Manufacturer | Model | Years | Part number | Information |
 | ------------ | ----- | ----- | ----------- | ------ |
+| Peugeot | 208 I | 2012 - 2019 | 9801906680 | [Here](src/clusters/peugeot_208_i/README.md) |
 
 ## BOM
 
