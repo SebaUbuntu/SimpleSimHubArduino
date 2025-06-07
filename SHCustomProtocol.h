@@ -11,6 +11,7 @@
 #include "src/types.h"
 
 // Uncomment which cluster you wanna control
+//#include "src/clusters/peugeot_208_i/Cluster.h"
 // End selection
 
 class SHCustomProtocol {
